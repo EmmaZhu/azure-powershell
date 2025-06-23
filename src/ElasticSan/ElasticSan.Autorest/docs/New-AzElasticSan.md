@@ -99,6 +99,7 @@ Accept wildcard characters: False
 
 ### -BaseSizeTiB
 Base size of the Elastic San appliance in TiB.
+Default value is 20.
 
 ```yaml
 Type: System.Int64
@@ -130,6 +131,7 @@ Accept wildcard characters: False
 
 ### -ExtendedCapacitySizeTiB
 Extended size of the Elastic San appliance in TiB.
+Default value is 0.
 
 ```yaml
 Type: System.Int64
